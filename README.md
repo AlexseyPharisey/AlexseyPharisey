@@ -5,7 +5,7 @@
 - Хочу работать с профессионалами своего дела 🤘
 - Работать над сложными боевыми проектами 😼
 
-## 🚀Мой стек:
+## Languages and tools:
 
 <p>
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png' height=25 alt='PHP'>
