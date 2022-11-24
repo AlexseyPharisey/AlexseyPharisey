@@ -14,4 +14,4 @@
 
 ## Статистика
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexseyPharisey&theme=dragoon&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexseyPharisey&theme=moonlight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
